@@ -1,6 +1,6 @@
-# template-vanilla
+# js-basic-initials-fix-reference-errors-functions
 
-## Text
+## Fix reference errors for alerts and prompts
 
 ## Criteria:
 
